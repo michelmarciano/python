@@ -5,3 +5,5 @@ print("Pedido")
 print("Pagamento")
 print("Sair")
 
+input('Escolha uma opcao: ')
+
