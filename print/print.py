@@ -1,4 +1,1 @@
-print("Ola mundo")
-print("Ola mundo")
-print("Ola mundo")
-print("Ola mundo")
+print("𝓢𝓪𝓫𝓸𝓻 𝓔𝔁𝓹𝓻𝓮𝓼𝓼")
