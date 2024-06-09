@@ -13,3 +13,7 @@ I
 print/print_duas_aspas.py,4/9/498ee687bb140ba215c4b6b71fa1888f36c0313f
 I
 print/print_tres_aspas.py,5/4/54236365df4bf32a1ae7d33a7f55821e4d84b670
+L
+estruturadecisao/__init__.py,e/f/efa46c83c5515a2f1137d8d3eea7438ba678a116
+F
+estruturadecisao/if.py,a/7/a78d1bfda7388537a75ac58fe64385d52afb0e3c
