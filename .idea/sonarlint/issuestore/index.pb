@@ -17,3 +17,5 @@ L
 estruturadecisao/__init__.py,e/f/efa46c83c5515a2f1137d8d3eea7438ba678a116
 F
 estruturadecisao/if.py,a/7/a78d1bfda7388537a75ac58fe64385d52afb0e3c
+@
+funcao/funcao.py,3/b/3b495dc2131c1743f953a88d1c83f62e4525043b
